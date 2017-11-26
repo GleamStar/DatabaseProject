@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Students]
+(
+	[StudentId] UNIQUEIDENTIFIER DEFAULT (newid()) NOT NULL PRIMARY KEY, 
+    [Name] VARCHAR(50) NOT NULL, 
+    [Surname] VARCHAR(50) NOT NULL, 
+    [DOB] DATETIME NOT NULL, 
+    [GPA] DECIMAL(3, 1) NOT NULL, 
+    [ClassId] UNIQUEIDENTIFIER NOT NULL, 
+    CONSTRAINT [FK_Students_To_Classes] FOREIGN KEY (ClassId) REFERENCES Classes(ClassId)
+)

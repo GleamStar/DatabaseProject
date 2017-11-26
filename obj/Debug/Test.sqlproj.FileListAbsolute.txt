@@ -1,0 +1,9 @@
+C:\Users\Gleam\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\Test.dacpac
+C:\Users\Gleam\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\Test.dll
+C:\Users\Gleam\Documents\Visual Studio 2017\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\Gleam\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Model.xml
+C:\Users\Gleam\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\refactor.xml
+C:\Users\Gleam\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\postdeploy.sql
+C:\Users\Gleam\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\predeploy.sql
+C:\Users\Gleam\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.dll
+C:\Users\Gleam\Documents\Visual Studio 2017\Projects\Test\Test\obj\Debug\Test.pdb
